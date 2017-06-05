@@ -1,0 +1,52 @@
+
+.navbar a{
+	color: white;
+}
+.navbar-header a{
+	font-size: 40px;
+	
+}
+
+.navbar-nav li{
+	float: left;
+	list-style-position: horizontal;
+}
+.nav li a:hover{
+	background: green;
+}
+.navbar{
+	top: 0;
+	position: absolute;
+	width: 100%;
+}
+
+header{
+	height: 400px;
+	padding: 100px 50px;
+}
+header h1{
+	font-size: 45px;
+}
+header p{
+	font-size: 25px;
+}
+#first{
+	padding: 10px 20px;
+	background: cyan;
+	color: white;
+}
+.bodysection{
+	background: #0f0f0f;
+
+}
+.bodysection p{
+	padding: 10px;
+	text-align: justify;
+}
+.bodysection h1{
+	color: white;
+}
+footer{
+	background: silver;
+	height: 100px;
+}
